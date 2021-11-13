@@ -29,3 +29,5 @@
 <!---
 stats Options: &hide=stars,commits,prs,issues,contribs
 --->
+
+[![Profile Views](https://komarev.com/ghpvc/?username=tarekmansour&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/tarekmansour)
