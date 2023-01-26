@@ -9,7 +9,7 @@
 
 👀 I’m self-taught software engineer interested in Fullstack development and Software Architecure.
 
-:battery: I love working with modern and innovative technologies, such as `Reactjs`, `.Net 6` `DDD`, `Microservices`, `CQRS`, `Event-Sourcing`, `TDD`, clean code tips, and software architecture patterns & styles.
+:battery: I love working with `Reactjs`, `.Net` `DDD`, `Microservices`, `CQRS`, `Event-Sourcing`, `TDD`, clean code tips, and software architecture patterns & styles.
 
 💞️ I’m looking to collaborate on various projects.
 
