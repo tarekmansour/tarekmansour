@@ -7,7 +7,7 @@
 
 **About:**
 
-👀 I’m self-taught software engineer interested in Fullstack development and Software Architecure.
+👀 I'm a code craftsman, a Senior .NET developer, passionate about software architecture, and always on the lookout for fresh avenues of innovation.
 
 :battery: I love working with `Reactjs`, `.Net` `DDD`, `Microservices`, `CQRS`, `Event-Sourcing`, `TDD`, clean code tips, and software architecture patterns & styles.
 
