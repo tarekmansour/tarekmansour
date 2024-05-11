@@ -1,4 +1,4 @@
-<p align="center"><strong> 👋 I'm Tarek Mansour </strong></p>
+<p align="center"><strong> Hi 🙋‍♂️ I’m Tarek Mansour </strong></p>
 <p align="center"> 
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />&nbsp;&nbsp;&nbsp;
@@ -7,11 +7,10 @@
 
 **About:**
 
-👋 I'm a code craftsman, a Senior .NET developer with a degree in computer engineering, passionate about software architecture, and always on the lookout for fresh avenues of innovation.
-
-:battery: I love working with `.Net`, `Javascript`, `DDD`, `Modular Monolith`, `Microservices`, `CQRS`, `Event-Sourcing`, `TDD`, clean code tips, and software architecture patterns & styles.
-
-💞️ I’m looking to collaborate on various projects.
+- 💼 I'm a Software engineer
+- 👯 I’m always learning
+- 🌱 Software architecture is my area of interest, my learning focuses on `Clean Architecture`, `TDD` and  `Domain Driven Design`.
+- 💞️ I’m looking to collaborate on various projects.
 
 **Reach me on:**
 <p>
