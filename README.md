@@ -7,7 +7,7 @@
 
 **About:**
 
-- 💼 I'm a Software engineer
+- 💼 I'm a Software craftsman engineer
 - 🧑‍💻 I’m always learning
 - 🌱 Software architecture is my area of interest, my learning focuses on `Clean Architecture`, `TDD` and  `Domain Driven Design`.
 - 💞️ I’m looking to collaborate on various projects.
