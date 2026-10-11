@@ -10,9 +10,9 @@
 
 **About:**
 
-- 💼 I'm a Software craftsman engineer
+- 💼 I'm a Software craftsman engineer / Tech Lead
 - 🧑‍💻 I’m always learning
-- 🌱 Software architecture is my area of interest, my learning focuses on `API design`, `API governance`, `Domain Driven Design` and `Event Driven Architecture`.
+- 🌱 Software architecture is my area of interest, my learning focuses on `API design`, `API governance`, `Domain Driven Design`, `Event Driven Architecture`, `AI-native product design` and `MCP integrations connecting AI agents to enterprise APIs and tools`.
 - 💞️ I’m looking to collaborate on various projects.
 
 **Reach me on:**
