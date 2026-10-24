@@ -18,7 +18,7 @@
 **Reach me on:**
 <p>
   <a target="_blank"href="https://twitter.com/mansour__tarek"><img src="https://img.shields.io/twitter/follow/:mansour__tarek" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/tma-dotnet//"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/tma-dotnet/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 **𝗦𝘁𝗮𝘁𝘀**
